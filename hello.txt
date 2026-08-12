@@ -1,5 +1,6 @@
 Hello, I am Krishna
-I am a Backend Developer
+I am a Software Engineer at GDOT
+
 I know Java, Angular, and Spring Boot
 I love my sis 
 My hobbies are cricket and gaming
